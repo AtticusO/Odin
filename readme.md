@@ -2,11 +2,11 @@
 A self hosted replacement for Alexa that does not steal data
 
 ### Dependancies
-\nollama
-\nlangchain-ollama
-\nlangchain
-\nopenai-whisper
-\nnumpy
-\nspotipy
-\nsounddevice
-\ndatetime
+\n ollama
+\n langchain-ollama
+\n langchain
+\n openai-whisper
+\n numpy
+\n spotipy
+\n sounddevice
+\n datetime
