@@ -2,7 +2,7 @@
 A self hosted replacement for Alexa that does not steal data
 
 ### Dependancies
-<br> ollama
+ ollama
 <br> langchain-ollama
 <br> langchain
 <br> openai-whisper
