@@ -9,7 +9,7 @@ CHUNK_DURATION = 0.1       # Seconds per read chunk (100 ms)
 SILENCE_THRESHOLD = 0.015  # RMS energy below this = silence
 SILENCE_DURATION = 2     # Seconds of silence before stopping
 
-# --- Lazy-loaded model singleton ---
+
 _model = None
 
 
