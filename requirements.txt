@@ -1,0 +1,8 @@
+ollama
+langchain-ollama
+langchain
+openai-whisper
+numpy
+spotipy
+sounddevice
+datetime
