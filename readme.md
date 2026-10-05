@@ -1,6 +1,14 @@
 # Odin
-A self hosted replacement for Alexa that does not steal data
+A self hosted replacement for Alexa
 
+## Running Odin on the Raspberry Pi
+```
+python3 Odin0.py
+```
+## Install
+```
+pip install -r requirements.txt
+```
 ### Dependancies
  ollama
 <br> langchain-ollama
